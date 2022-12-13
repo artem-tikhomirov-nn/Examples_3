@@ -6,7 +6,7 @@ while (cont)
 {
     string text = Console.ReadLine();
     char[] revtext = text.ToCharArray();
-    if (revtext.Length - 1 < 5)
+    if (revtext.Length - 1 == 4)
     {
         Array.Reverse(revtext);
         string finaltext = new string(revtext);
