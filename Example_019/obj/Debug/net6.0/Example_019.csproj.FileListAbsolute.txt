@@ -1,0 +1,15 @@
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\bin\Debug\net6.0\Example_019.exe
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\bin\Debug\net6.0\Example_019.deps.json
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\bin\Debug\net6.0\Example_019.runtimeconfig.json
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\bin\Debug\net6.0\Example_019.dll
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\bin\Debug\net6.0\Example_019.pdb
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.csproj.AssemblyReference.cache
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.GeneratedMSBuildEditorConfig.editorconfig
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.AssemblyInfoInputs.cache
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.AssemblyInfo.cs
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.csproj.CoreCompileInputs.cache
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.dll
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\refint\Example_019.dll
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.pdb
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\Example_019.genruntimeconfig.cache
+B:\GB\С# Lessons\repo\Exmaples 3\Example_019\obj\Debug\net6.0\ref\Example_019.dll
